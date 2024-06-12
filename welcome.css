@@ -1,0 +1,39 @@
+#mbn{
+    margin-top: 50%;
+    margin-left: 20%;
+    font-weight: 700;
+}
+#nv{
+    margin-left: 10%;
+    color: #ccc;
+}
+#cgd{
+    margin-left: 12%;
+    color: #ccc;
+}
+#but{
+    margin-left: 5%;
+    width: 93%;
+    height: 44px;
+    margin-top: 3%;
+    background-color:#0095F8 ;
+    color: white;
+    border-radius: 5px;
+    border: none;
+}
+#bfh{
+    display: inline-block;
+    margin-top: 10px;
+    margin-left: 35%;
+    color: #0095F8;
+}
+
+#bxs{
+    margin-top: 40%;
+    margin-left: 10%;
+    color: #ccc;
+}
+.end{
+    color: #0095F8;
+    text-decoration: none;
+}
